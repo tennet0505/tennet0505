@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleg Ten. iOS developer. 4,5 years expirience.
+- 👋 Hi, I’m Oleg Ten. iOS developer. 6 years expirience.
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI and Flutter
 - 💞️ I’m looking to collaborate on ...
