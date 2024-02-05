@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Oleg Ten. iOS developer. 6 years expirience.
+- 👋 Hi, I’m an iOS developer with 6 years expirience, also I have 1 year experience in Flutter development.
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI and Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me. My email: tennet0505@gmail.com
 - 😢 Sorry for empty GitHub All my projects under NDA.
 
 
